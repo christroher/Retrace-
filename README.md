@@ -40,11 +40,13 @@
 ### ⌨️ **Keyboard Shortcuts**
 | Shortcut | Action |
 |----------|--------|
-| `Ctrl+Shift+R` | Toggle side panel |
+| `Ctrl+Shift+H` | Toggle side panel |
 | `Ctrl+F` / `/` | Focus search |
 | `Esc` | Clear search / Close calendar |
 | `J` / `K` | Navigate up/down |
 | `D` | Delete hovered item |
+| `C` | Copy URL |
+| `F` | Same-domain history |
 
 ### 🔄 **Undo System**
 - Stack-based undo for deleted items
