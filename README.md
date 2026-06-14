@@ -44,9 +44,9 @@
 | `Ctrl+F` / `/` | Focus search |
 | `Esc` | Clear search / Close calendar |
 | `J` / `K` | Navigate up/down |
-| `D` | Delete hovered item |
-| `C` | Copy URL |
-| `F` | Same-domain history |
+| `Alt+D` | Delete hovered item |
+| `Alt+C` | Copy URL |
+| `Alt+F` | Same-domain history |
 
 ### 🔄 **Undo System**
 - Stack-based undo for deleted items
